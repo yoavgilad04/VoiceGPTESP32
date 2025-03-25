@@ -1,5 +1,6 @@
 # Voice Assistant - Marvin
 Link to a small explanation and demonstration video: https://www.canva.com/design/DAGR2FAYm_A/rdCRt380RnVsXAlOs5vP0g/watch 
+
 This project is a voice assistant that utilizes a wake-word to activate and perform various tasks. It is designed to work with an ESP32 board and several hardware components including the INMP441 microphone, I2S speaker, and RGB light.
 
 ## Summary
